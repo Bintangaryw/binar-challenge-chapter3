@@ -1,0 +1,40 @@
+.buttontop {
+  padding-left: 10px;
+  padding-right: 10px;
+  border-right-width: 150px;
+  border-left-width: 150px;
+}
+.checklist {
+  margin-right: 7px;
+}
+
+.searchbox {
+  padding: 25px;
+}
+.buttonsearch {
+  border-right-width: 35px;
+  border-left-width: 35px;
+}
+.innersearchbox {
+  padding: 20px;
+}
+
+.settodolist {
+  margin-top: 20px;
+}
+
+.container {
+  padding: 25px;
+}
+.tabletodolist {
+  padding: 25px;
+}
+.strikethrough {
+  text-decoration: line-through;
+}
+.addeditbutton {
+  margin: 10px;
+}
+.addbutton {
+  margin-right: 15px;
+}
